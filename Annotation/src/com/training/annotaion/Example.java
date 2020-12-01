@@ -10,4 +10,8 @@ import java.lang.annotation.Target;
 @Target(TYPE)
 public @interface Example {
     String value();
+    // chak de phatte4
+    
+    
+    // yfyud7dky
 }
